@@ -1,6 +1,8 @@
 #include <iostream>
 #include "ListT.hpp"
 
+using namespace std;
+
 int main()
 {
 	List<char> l_1;
